@@ -1,0 +1,64 @@
+Welcome to group expense calculate
+Press 1 : Add the expense
+Press 2 : Calculate the debts
+Press 3 : Exit
+
+Enter your choice : 1
+
+Enter Spender name :John
+Enter the total spent amount :600
+Enter the group member including yourself :John,Mark,Max
+
+Debit is added successfully!!
+
+Welcome to group expense calculate
+Press 1 : Add the expense
+Press 2 : Calculate the debts
+Press 3 : Exit
+
+Enter your choice : 1
+
+Enter Spender name :Mark
+Enter the total spent amount :100
+Enter the group member including yourself :John,Mark,Max
+
+Debit is added successfully!!
+
+Welcome to group expense calculate
+Press 1 : Add the expense
+Press 2 : Calculate the debts
+Press 3 : Exit
+
+Enter your choice : 1
+
+Enter Spender name :Max
+Enter the total spent amount :500
+Enter the group member including yourself :John,Max
+
+Debit is added successfully!!
+
+Welcome to group expense calculate
+Press 1 : Add the expense
+Press 2 : Calculate the debts
+Press 3 : Exit
+
+Enter your choice : 2
+
+Debited amount is : 1200.0
+
+Total amount divided into the group members  : 8
+
+Debited calculation is : 150.0
+
+Expense Calculation
+Max => -200.0
+John => -150.0
+Mark => 350.0
+
+Welcome to group expense calculate
+Press 1 : Add the expense
+Press 2 : Calculate the debts
+Press 3 : Exit
+
+Enter your choice : 3
+Exit
